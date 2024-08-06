@@ -1,0 +1,214 @@
+body{
+background-color: #e8e8e8;    
+font-family: "Archivo", sans-serif;
+}
+
+h3 a{
+text-decoration: none;    
+color: #ffc107;
+}
+
+
+footer{
+text-align: center;    
+position: fixed;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 50px;
+padding:15px;
+background-color: #434a54;
+}
+        
+footer p{
+color: #0dcaf0;    
+}
+
+.Welcome p{
+font-size: 20px;    
+
+}    
+
+.Welcome{
+margin-top: 110px;
+}
+
+#message{
+margin-top: 20px;    
+font-size: 21px;
+}
+
+#uyari{
+margin-top: 20px;
+font-size: 21px;
+}
+
+#alert{
+margin-top: 20px;
+font-size: 21px;    
+}
+
+#bilgi{
+margin-top: 20px;
+font-size: 21px;        
+}
+
+#warning{
+margin-top: 20px;
+font-size: 21px; 
+}
+
+.inputgroup1, .inputgroup2, .inputgroup3, .inputgroup4 input{
+margin-top: 10px;
+}
+
+.inputgroup3, .inputgroup4{
+position: relative;
+right: 10px;
+}
+
+#mesaj{
+margin-top: 20px;   
+font-size: 21px;
+}
+
+.input1, .input2, .input3, .input4{
+text-align: center;
+}
+
+.input1, .input2, .input3, .input4 input{
+margin-top: 10px;
+}
+
+.input3, .input4{
+position: relative;
+right: 10px;
+}
+
+.konteiner input{
+width: 280px;
+height: 35px;
+border: none;
+border-radius: 5px;
+text-align: center;
+}
+
+.konteiner{
+margin-top: 150px;
+}
+
+.sayi{
+margin-top: 150px;
+}
+
+.sayi input{
+width: 280px;
+height: 35px;
+border: none;
+border-radius: 5px;
+text-align: center;
+}
+
+#notify{
+margin-top: 10px;
+font-size: 21px;
+}
+
+#notification{
+margin-top: 10px;
+font-size: 21px;
+}
+
+.kdv{
+margin-top: 150px;
+}
+
+.kontanier{
+margin-top: 150px;
+}
+
+#fiyat{
+width: 280px;
+height: 35px;
+border: none;
+border-radius: 5px;
+}
+
+.kontanier select{
+width: 280px;
+height: 35px;
+border-radius: 5px;
+}
+
+#ide{
+margin-top: 10px;
+font-size: 21px;  
+}
+
+.gelir{
+margin-top: 150px;
+}
+
+#tutarsonuc{
+margin-top: 10px;
+font-size: 21px;  
+}
+
+#vergitutar{
+margin-top: 10px;
+font-size: 21px;  
+}
+
+.gumvergi{
+margin-top: 150px;
+}
+
+.form-group{
+text-align: center;
+margin-top: 80px;
+}
+
+.form-group input{
+width: 280px;
+height: 35px;
+border-radius: 5px;    
+}
+
+.kira{
+text-align: center;    
+margin-top: 70px;
+}
+
+#incomeType{
+width: 280px;
+height: 30px;
+border-radius: 5px;    
+}
+
+.damga{
+margin-top: 150px;
+}
+
+#damgavergisonuc{
+margin-top: 10px;
+font-size: 21px;  
+}
+
+.vekalet{
+margin-top: 150px;    
+}
+
+.icramasrafi{
+margin-top: 150px;    
+}
+
+.arabulucu{
+margin-top: 150px;    
+}
+
+#anlasmazlikTuru{
+margin: 10px;   
+width: 250px;
+height: 30px;
+border-radius: 5px;
+}
